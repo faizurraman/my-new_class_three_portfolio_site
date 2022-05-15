@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+image{
+    max-width: 100%;
+}
+body{
+    font-size: 18px;
+}
+header{
+    background-color:rgb(11, 12, 12);
+}
+.container{
+   
+}
+.coloum{}
+.logo{
+    justify-content: center;
+}
+.logo img{
+    width: 150px;
+    padding-left: 30px;
+  
+}
+
+
+
+
+menu{}
+.header-menu{
+    padding-top: 60px;
+    padding-left: 200px;
+   
+}
+.header-menu ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    
+
+}
+.header-menu ul li{
+    margin-bottom: 10px;
+
+}
+   
+.header-menu ul li a{
+    padding: 10px 10px;
+    display: block;
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.header-menu ul :hover{
+    color: rgb(26, 23, 23);
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+
+.service-section{
+    padding: 80px 0px;
+
+}
+.heading{
+   text-align: center;
+}
+.heading h1{
+font-weight: 900;
+font-size: 50px;
+
+}
+.container{
+    display: flex;
+ }   
+
+.column{
+    padding: 20px 10px;
+}
+.service {
+    box-shadow: 0 10px 0 0 white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.service img {
+    height: 200px;
+    width: 300px;
+    
+    object-fit: cover;
+}
+    
+.service h2 {
+}
+.service p{
+}
+.flex{
+    display: flex;
+}
+
+.contract-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+.contract-section p{}
+.contract-section h1{}
